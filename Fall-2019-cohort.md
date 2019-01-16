@@ -4,7 +4,7 @@
 | Travis Bassett     | travisbassett   | travisbassett.com   |               | 
 | James Chen         | jameschen86     | jamchen.com         |               | 
 | Colleen Cushnie    | cushnie         | colleencushnie.com  |               | 
-| Luis Huete         |                 | networks.solutions* | * not working | 
+| Luis Huete         | luisg1          | networks.solutions* | * not working | 
 | Shure Joe          | shjoe           | shurenotjoe.com     |               | 
 | Douglas Jones      | dougjones866    | gchomp.com          |               | 
 | Aric Masih         | masiharic       | masiharic.com       |               | 
