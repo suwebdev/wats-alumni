@@ -14,5 +14,5 @@
 | Angeline Nguyen    | angeline-n      | angelinenguyen.com  |               | 
 | Lionel Pierrot     | lpierrot        | lionelpierrot.com   |               | 
 | Katerina Plushko   | katplush        | katplush.com        |               | 
-| Georgina Ramirez   | grsupercool     |                     |               | 
+| Georgina Ramirez   | grsupercool     | msgeorginaramirez.com               |
 | Amanda Teague      | okideveloper    | okideveloper.com    |               | 
