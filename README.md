@@ -2,6 +2,13 @@
 
 The following individuals have successfully completed the Web Development Certificate at Seattle University. They are listed according to the quarter they completed.
 
+## Winter 2019
+* [Derek Benak](https://derekbenak.com/index.html)
+* [Cheryl Campbell](https://cherylac.com/)
+* [Anthony Graff](http://anthonygraf.com/)
+* [Dineen Schmidt](https://www.dineenlauren.com/)
+* [Debbie Foong](http://www.dfoong.com/)
+
 ## Fall 2018
 * [Jeffery Salazar](http://jeffsierra.com/WebDevPortfolio-SalazarJeff/)
 * [Kristi Short](https://kristishort.com/)
