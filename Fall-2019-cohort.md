@@ -14,9 +14,9 @@
 | John Meyer         | facemanguy      | [johnmeyerwebdev.com](http://www.johnmeyerwebdev.com/) |               | 
 | Shannon Michaels   | hazel61         | [dastardlycode.com](https://www.dastardlycode.com/)   |               | 
 | Lionel Pierrot     | lpierrot        | [lionelpierrot.com](https://www.lionelpierrot.com/)   |               | 
-| Katerina Plushko   | katplush        | [katplush.com](https://www.katplush.com/profile/) x        |               | 
+| Katerina Plushko   | katplush        | [katplush.com](https://www.katplush.com/profile/)         |               | 
 | Georgina Ramirez   | grsupercool     |                     |               | 
-| Amanda Teague      | okideveloper    | [okideveloper.com](http://www.okideveloper.com/Okidevelopers-Portfolio/) x    |               | 
+| Amanda Teague      | okideveloper    | [okideveloper.com](http://www.okideveloper.com/Okidevelopers-Portfolio/)    |               | 
 
 
 | Luis Huete         |                 | networks.solutions* | * not working |   
