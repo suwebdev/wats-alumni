@@ -7,7 +7,7 @@
 | Colleen Cushnie    | cushnie         | [colleencushnie.com](https://www.colleencushnie.com/)  |               | 
 | Katie Grothe       | kgrothe         | [kgrothe.com](https://kgrothe.com/)
 | Shure Joe          | shjoe           | [shurenotjoe.com](https://www.shurenotjoe.com/)     |               | 
-| Douglas Jones      | dougjones866    | [dj3rd.com](https://www.dj3rd.com/Portfolio)     |         |
+| Douglas Jones      | dougjones866    | [dj3rd.com](https://www.dj3rd.com)     |         |
 | Aric Masih         | masiharic       | [masiharic.com](https://www.masiharic.com/)       |               | 
 | Nathaniel Meinhold | natemeinhold    | [natemeinhold.com](https://natemeinhold.com/)    |               | 
 | Amanda Nave        | amandanave      | [amandanave.com](http://amandanave.com/)
