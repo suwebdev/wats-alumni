@@ -15,7 +15,7 @@
 | Shannon Michaels   | hazel61         | [dastardlycode.com](https://www.dastardlycode.com/)   |               | 
 | Lionel Pierrot     | lpierrot        | [lionelpierrot.com](https://www.lionelpierrot.com/)   |               | 
 | Katerina Plushko   | katplush        | [katplush.com](https://www.katplush.com/profile/)         |               | 
-| Georgina Ramirez   | grsupercool     |                     |               | 
+| Georgina Ramirez   | grsupercool     | [georginauxramirez.com]| https://www.georginauxramirez.com/              | 
 | Amanda Teague      | okideveloper    | [okideveloper.com](http://www.okideveloper.com/Okidevelopers-Portfolio/)    |               | 
 
 
